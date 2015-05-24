@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo created for course project
+Repo created for course project by Robert Mooney
